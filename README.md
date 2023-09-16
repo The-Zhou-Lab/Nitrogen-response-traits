@@ -31,7 +31,11 @@ Install Anaconda Python distribution:
 • We recommend users install the latest Anaconda Python distribution
 
 Install packages:
-
+Skelarn = 1.0 
+Matplotlib =3.7.1
+Pandas=2.0.1 
+Numpy=1.24.2 
+Scipy=1.9.1
 
 
 Skelarn = 1.0
