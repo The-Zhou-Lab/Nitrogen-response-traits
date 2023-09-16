@@ -1,25 +1,5 @@
 # Nitrogen-Response
 
-Guohui Ding1,+, GuoHui.Ding@njau.edu.cn, orcid: 0000-0001-5498-6838
-Liyan Shen1,+, LiyanShen@stu.njau.edu.cn, orcid: 0000-0001-6831-2914 
-Robert Jackson2, Robert.Jackson@niab.com, orcid: 0000-0002-8364-1633
-Jie Dai1, DaiJie@stu.njau.edu.cn, orcid: 0000-0002-3941-576X
-Shucheng Liu1, LiushuChen@stu.njau.edu.cn, orcid: 0009-0003-3218-4473 
-Li Sun3, sunli@njau.edu.cn, orcid: 0000-0002-3718-163X
-Mingxing Wen4, xxx orcid: 0000-0002-2917-2290
-Jin Xiao3, xiaojin@njau.edu.cn, orcid: 0000-0001-7238-3627
-Greg Deakin2, Greg.Deakin@niab.com, orcid: 0000-0002-7817-345X
-Dong Jiang5, Jiangd@njau.edu.cn, orcid: 0000-0003-0876-5043 
-Stephanie Swarbreck2, Stephanie.Swarbreck@niab.com, orcid: 0000-0001-8355-7354
-Xiu-e Wang3*, xiuew@njau.edu.cn, orcid: 0000-6002-6312-3417
-Ji Zhou1,2*, Ji.Zhou@njau.edu.cn or Ji.Zhou@NIAB.com, orcid: 0000-0002-5752-5524
-
-1College of Agriculture, Plant Phenomics Research Centre, Academy for Advanced Interdisciplinary Studies, Nanjing Agricultural University, Nanjing 210095, China
-2Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK 
-3State Key Laboratory of Crop Genetics and Germplasm Enhancement, Cytogenetics Institute, Nanjing Agricultural University/JCIC-MCP, Nanjing, Jiangsu 210095, China 
-4Zhenjiang Institute of Agricultural Science in Hill Area of Jiangsu Province, Jurong 212400, China
-5Regional Technique Innovation Center for Wheat Production; Key Laboratory of Crop Physiology and Ecology in Southern China, Ministry of Agriculture, Nanjing Agricultural University, Nanjing 210095, China
-
 In this release ,The main files are as follows:
 
 Model save 
