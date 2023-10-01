@@ -28,8 +28,4 @@ If you wish to run from the source code provided in this project, you will need 
 
 Some dependencies of the Jupyter notebooks
 
-Skelarn = 1.0
-Matplotlib =3.7.1
-Pandas=2.0.1
-Numpy=1.24.2
-Scipy=1.9.1
+Skelarn = 1.0; Matplotlib =3.7.1; Pandas=2.0.1; Numpy=1.24.2; Scipy=1.9.1
