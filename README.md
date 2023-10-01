@@ -6,7 +6,7 @@ The main files are as follows:
 
 • Jupyter notebook - mainly contains the model test code and the test data.
 
-We also uploaded the UAV data after jointing fertilization, including orthomosaics and 3D point cloud files. The phenotypic datasets can be analyzed and processed by the AirMeasurer platform [https://github.com/The-Zhou-Lab/UAV](https://github.com/The-Zhou-Lab/UAV-AirMeasurer). The results of wheat yield and nitrogen efficiency classification were obtained using the above machine learning models.
+We also uploaded the UAV data after jointing fertilization, including orthomosaics and 3D point cloud files. The phenotypic datasets can be analyzed and processed by the AirMeasurer platform [https://github.com/The-Zhou-Lab/UAV-AirMeasurer](https://github.com/The-Zhou-Lab/UAV-AirMeasurer). The results of wheat yield and nitrogen efficiency classification were obtained using the above machine learning models.
 
 Ti install Python, Anaconda and Libraries
 If you wish to run from the source code provided in this project, you will need to set up Python on your system.
